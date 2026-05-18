@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prashanta-bhusal.com.np/sitemap.xml
